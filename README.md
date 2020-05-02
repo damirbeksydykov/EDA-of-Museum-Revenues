@@ -9,7 +9,7 @@ Welcome! This repository contains the code, notebook and the dataset of Museums,
 4. pandas 0.25.1 version
 5. seaborn 0.9.0 version
 
-## What are the aims of this analyisis? 
+## What are the aims of this analysis? 
 
 1. Perform statistical analysis of the data
 2. Clean the missing or irrelevant values 
